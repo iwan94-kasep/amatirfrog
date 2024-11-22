@@ -1,0 +1,32 @@
+-embed 
+<style>disimpan di bagian head html </style>
+
+-inline
+<p style ="color: light blue;">lorem issom</p>
+
+-external
+<link rel="stylesheet" href="style.css">
+
+
+font
+font-family :arial', verdana, sans-serif/serif
+mengatur jenis font yang akan diggunakan 
+
+font-size:
+mengatur ukuran font/%  .100px   .em
+
+font-weight
+mgatur ketebalan font
+
+font-variant:
+mengubah font jadi small caps
+
+font-style:
+mengubah font jadi cetak miring/normal italic oblique
+
+line-height
+mengatur space atar baris
+
+background-repeat: repeat-x ; y=no-repeat
+
+background-repeat: top-right; left/center/bottom
